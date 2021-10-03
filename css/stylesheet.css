@@ -1,0 +1,149 @@
+body{
+    text-align: center;
+    background-color: #b8e994;
+}
+
+#headerSection{
+
+    padding: 5px;
+
+}
+
+#headerSection h1{
+    font-family: cursive;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: black;
+
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 190px;
+    border-width: 2px;
+    border-color: black;
+}
+
+#loginbtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    font-size: 15px;
+}
+
+#address{
+
+    width: 365px;
+}
+
+#imagepart{
+
+    border: 2px solid black;
+    width: 380px;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+#role{
+
+    border: 2px solid black;
+    width: 380px;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#role select{
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#registerbtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    font-size: 15px;
+}
+
+#backbtn{
+
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    font-size: 15px;
+    float: left;
+    margin: 15px;
+}
+
+#logoutbtn{
+
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    font-size: 15px;
+    float: right;
+    margin: 15px;
+}
+
+#Profile{
+
+    background-color: white;
+    width: 30%;
+    padding: 20px;
+    float: left;
+    text-align: left;
+}
+
+#Group{
+
+    background-color: white;
+    width: 60%;
+    padding: 20px;
+    float: right;
+}
+
+#votebtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    font-size: 15px;
+    float: left;
+    
+}
+#group_image{
+    float: right;
+}
+
+#left_side{
+    text-align: left;
+}
+
+#main_panel{
+    padding: 20px;
+}
+
+#voted{
+
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #0caa27;
+    color: white;
+    font-size: 15px;
+    float: left;
+}
+
+
